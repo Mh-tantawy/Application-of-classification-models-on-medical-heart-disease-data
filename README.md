@@ -1,4 +1,3 @@
-# Application-of-classification-models-on-medical-heart-disease-data
 # Application of classification models on medical heart disease data
 ​
 In this project we will built all machine learning models for **classification** (shown below) using **scikit-learn**.
